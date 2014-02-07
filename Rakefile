@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "git@github.com:miwc/miwc.github.io"
+GITHUB_REPONAME = "miwc/miwc.github.io"
 
 
 namespace :jekyll do
