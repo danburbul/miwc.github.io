@@ -10,7 +10,7 @@ The thing is, learning to code is generally dull. Making things with code is awe
 
 Huw and I (Ben) decided to start Make it With Code after we put a blog post up to say we wanted 5 people to test a new type of course based on 'hacking stuff together' rather than learning syntax and got over 50 people wanting to try it in the first few hours.
 
-Huw's a software product manager who now works primarily with startups and has previously worked with companies such as Vodaphone Group. I'm a developer with about eight years experience in a range of languages and the author of a book on deploying ruby applications.
+Huw's a software product manager who now works primarily with startups and has previously worked with companies such as Vodafone Group. I'm a developer with about eight years experience in a range of languages and the author of a book on deploying ruby applications.
 
 I 'built' websites before understanding HTML, database driven applications before knowing SQL and games before knowing what a loop was. By built I mean hacked together from things other people had made; I learnt just the bits I needed in order to make the stuff I wanted. As I discovered how awesome it was to actually make things, I learnt more and more of the theory simply because it was useful for building better things, not because that's what you're "meant to do".
 
@@ -42,6 +42,6 @@ At the end of each lesson, you'll have made something, it will actually do somet
 
 We provide a complete cloud based development environment so you don't have to worry about setting up your own. You just need access to a modern web browser (Chrome, Safari or Firefox). At the end we can provide assistance getting setup with a local environment if needed.
 
-The cost $99 (£60) per person and if, at any point during or after the course, you feel you're not getting value for money, we'll refund it without question. This is a new concept and the level of interest we've received since the blog post which started it all has been huge so, to make sure everyone gets a great level of support, we're starting people in batches.
+The cost is $99 (£60) per person and if, at any point during or after the course, you feel you're not getting value for money, we'll refund it without question. This is a new concept and the level of interest we've received since the blog post which started it all has been huge so, to make sure everyone gets a great level of support, we're starting people in staggered groups.
 
 To apply, please <a href="/apply">fill in this form</a> and we'll get get in touch as soon as a slot becomes available.
