@@ -1,7 +1,7 @@
 ---
 layout : post
 title: "About Make It With Code"
-date: 2014-2-07 19:36:00
+date: 2014-2-02 19:36:00
 categories: ruby learning
 biofooter: false
 ---
