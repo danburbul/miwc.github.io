@@ -18,4 +18,4 @@ Each of these approaches is working well in some areas, and not so well in other
 
 Year of Code's strength lies in not being attached to any one methodology or approach. They're free to engage with all the great "learn to code" initiatives out there, pool knowledge from across the industry, and connect those who want to learn with the resources they need to get coding.
 
-To find out more about Make It With Code visit <http://www.makeitwithcode.com>
+To find out more about how we're teaching people to code, visit <http://www.makeitwithcode.com>
