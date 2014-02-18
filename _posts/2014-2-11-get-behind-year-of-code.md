@@ -6,7 +6,7 @@ categories: news learning
 biofooter: false
 ---
 
-Year of Code is an independent, non-profit campaign that's encouraging people of the UK to "get coding for the first time" in 2014. Unfortunately, the thing that's set people talking about the initiative is the barrage of cynical responses to a recent Newsnight segment, which we think misses the point. Here's why we're completely behind Year of Code.
+<a href="http://yearofcode.org/" target="_blank">Year of Code</a> is an independent, non-profit campaign that's encouraging people of the UK to "get coding for the first time" in 2014. Unfortunately, the thing that's set people talking about the initiative is the barrage of cynical responses to a recent Newsnight segment, which we think misses the point. Here's why we're completely behind Year of Code.
 
 According to their website, Year of Code will "be banging the drum for all the fantastic coding initiatives taking place". They're not claiming to be teaching, they're championing the initiatives that are already trying to do so. This is an important distinction.
 
