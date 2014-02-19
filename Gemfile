@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'jekyll', '1.2.1'
+gem 'rake', '10.0.3'
