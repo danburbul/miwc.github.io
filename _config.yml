@@ -14,3 +14,4 @@ url:            'http://blog.makeitwithcode.com'
 author:         'Make It With Code'
 
 exclude: [Rakefile, README.md]
+encoding: utf-8
