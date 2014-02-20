@@ -4,7 +4,6 @@ title: "Break it Down"
 date: 2014-2-20 11:23:00
 categories: ruby learning
 biofooter: false
-published: false
 ---
 
 When you're thinking about a big idea, one of the most difficult things to work out is how to get started. It doesn't matter whether it's a coding problem, or writing a story, or planning a holiday; it's impossible to fathom the full extent of a project without understanding how it can be broken down into smaller, more manageable elements. And then once you've figured out how to break it down, you need to find a way to piece it together. 
