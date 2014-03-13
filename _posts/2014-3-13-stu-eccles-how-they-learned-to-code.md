@@ -6,7 +6,9 @@ categories: ruby learning
 how_learned_signup: true
 ---
 
-In this series of interviews, we're talking to some of the industry's top developers about how they learned to code and their advice for anyone who's just getting started. Stuart Eccles is the Co-Founder and CTO of Made By Many, a London and New York based digital agency which specialises in applying Lean Methodologies and working practices to projects for big companies. Their case studies <http://madebymany.com/case-studies> are well worth reading as examples of how to create great products; highlights include the Skype in the Classroom platform for connecting teachers and completely reinventing ITV's digital platform.
+In this series of interviews, we're talking to some of the industry's top developers about how they learned to code and their advice for anyone who's just getting started. Stuart Eccles is the Co-Founder and CTO of Made By Many, a London and New York based digital agency which specialises in applying Lean Methodologies and working practices to projects for big companies.
+
+Their case studies <http://madebymany.com/case-studies> are well worth reading as examples of how to create great products; highlights include the Skype in the Classroom platform for connecting teachers and completely reinventing ITV's digital platform.
 
 _What made you first want to start learning, and how did you start?_
 
