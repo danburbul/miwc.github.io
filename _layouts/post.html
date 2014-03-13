@@ -45,8 +45,11 @@ archive: false
         {% endif %}
 
         <footer class="post-footer">
-          {% if page.biofooter == true %}
-            {% include bio.html %}
+          {% if page.ben_bio == true %}
+            {% include ben-bio.html %}
+          {% endif %}
+          {% if page.how_learned_signup == true %}
+            {% include how-they-learned-signup.html %}
           {% endif %}
 
             {% if page.disqus %}

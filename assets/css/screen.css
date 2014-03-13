@@ -589,7 +589,11 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .book article {
-  min-height: 280px;
+  min-height: 140px;
+}
+
+.book .wide_email {
+    width: 400px;
 }
 
 .book form {
