@@ -51,6 +51,9 @@ archive: false
           {% if page.how_learned_signup == true %}
             {% include how-they-learned-signup.html %}
           {% endif %}
+          {% if page.general_signup == true %}
+            {% include general_signup.html %}
+          {% endif %}
 
             {% if page.disqus %}
             <section class="disqus">
