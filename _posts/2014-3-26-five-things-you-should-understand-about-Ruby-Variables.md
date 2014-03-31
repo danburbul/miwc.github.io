@@ -38,7 +38,7 @@ Well, that’s one of the six analogies that Khan Academy considers in this exce
 The Codecademy Glossary provides the simplest possible overview of assigning Variables: [Codecademy - Ruby Glossary](http://www.codecademy.com/glossary/ruby#variables) 
 
 Chris Pine, author of the excellent book [Learn To Program](http://pragprog.com/book/ltp2/learn-to-program), goes into a little bit more detail with six examples of Variables in action: 
-[Pine.fm - Variables](https://pine.fm/LearnToProgram/?Chapter=03) 
+[Pine.fm - Variables](http://pine.fm/LearnToProgram/?Chapter=03) 
 
 
 #### 4.	You don’t need to declare what "type" a variable is
