@@ -6,13 +6,9 @@ lock '3.2.1'
 set :application, 'miwc_blog'
 set :repo_url, 'git@github.com:miwc/miwc.github.io.git'
 
-# Default branch is :master
-# ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
 set :deploy_user, 'deploy'
 
 namespace :deploy do
-
-  desc 'Restart application'
 
   after :starting, :build_jekyll do
     system "jekyll build"
