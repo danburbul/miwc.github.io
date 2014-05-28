@@ -1,4 +1,4 @@
-name: Make It With Code
+name: Make It With Code Blog
 description: "Teaching people to code by making things, not learning Syntax"
 meta_description: "Official Make It With Code Blog. How we teach people to make things with code, not just write code"
 
@@ -10,8 +10,9 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://blog.makeitwithcode.com'
+url:            'http://www.makeitwithcode.com/blog/'
 author:         'Make It With Code'
+baseurl: '/blog'
 
-exclude: [Rakefile, README.md]
+exclude: [Rakefile, README.md, Capfile, Gemfile, Gemfile.lock, config/, lib/]
 encoding: utf-8
