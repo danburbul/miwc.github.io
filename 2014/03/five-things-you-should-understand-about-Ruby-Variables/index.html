@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>   
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>5 things you should understand about Ruby Variables</title>
+    <meta name="description" content="Official Make It With Code Blog. How we teach people to make things with code, not just write code" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="iwXSC2H2VSO9iPyrWjNj3Prlx4zJY-l0EJRGVkFuUHk" />
+
+   
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400" />
+    <!-- This is for syntax highlight -->
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/syntax.css">
+    <!-- Customisation  -->
+    <link rel="stylesheet" type="text/css" href="/blog/assets/css/main.css" />
+    <link rel="alternate" type="application/rss+xml" title="RubyFlow"
+    href="/rss.xml"/>
+
+</head>
+<body class="home-template">
+
+    
+    <main class="content" role="main">
+
+    <article class="post">
+        <header class="post-header">
+            <a id="blog-logo" href="http://www.makeitwithcode.com">
+                
+                    <span class="blog-title">Home</span>
+                 
+            </a>
+        </header>
+        
+        <span class="post-meta">
+        	<time datetime="2014-03-26">26 Mar 2014</time>
+        	
+       	</span>
+
+        <h1 class="post-title">5 things you should understand about Ruby Variables</h1>
+
+        <section class="post-content">
+            <p>Despite being one of the most fundamental concepts in programming, it’s pretty hard to find a decent explanation of Ruby Variables for beginners. We’ve hand-picked a number of resources we believe cover the five thing you’ll need to understand about them.</p>
+
+<h4>1. Variables are used to store items you want to access later</h4>
+
+<p>James Bruce, of Make Use Of, provides a no-nonsense introduction to variables: <a href="http://www.makeuseof.com/tag/basics-of-computer-programming-variables-datatypes/">Make Use of – Variables And Data Types</a></p>
+
+<p>An example of a variable in action would be:</p>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">    the_average = (1 + 2 + 3) / 3
+</code></pre></div>
+<p>This “assigns” the value of  <code>(1 + 2 + 3) / 3</code> (which calculates to be 2) to the Variable <code>the_average.</code> Later in the program you might do:</p>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">    puts &quot;the average is: #{the_average}&quot;
+</code></pre></div>
+<p>This would display the text &quot;the average is 2&quot;. Using Variables is particularly useful for:</p>
+
+<ul>
+<li>Making code more readable: lots of short lines which each do a single thing are easier to understand than long ones which do many things </li>
+<li>Situations where you need to use a value lots of times, in this case instead of writing <code>(1 + 2 + 3) / 3</code> every time, you can just use <code>the_average</code>.</li>
+</ul>
+
+<h4>2. Variables are like tentacles</h4>
+
+<p>Well, that’s one of the six analogies that Khan Academy considers in this excellent blog post: <a href="http://cs-blog.khanacademy.org/2013/09/teaching-variables-analogies-and.html">Khan Academy - Teaching Variables: Analogies and Approaches</a> </p>
+
+<h4>3. Assigning variables is simple</h4>
+
+<p>The Codecademy Glossary provides the simplest possible overview of assigning Variables: <a href="http://www.codecademy.com/glossary/ruby#variables">Codecademy - Ruby Glossary</a> </p>
+
+<p>Chris Pine, author of the excellent book <a href="http://pragprog.com/book/ltp2/learn-to-program">Learn To Program</a>, goes into a little bit more detail with six examples of Variables in action: 
+<a href="http://pine.fm/LearnToProgram/?Chapter=03">Pine.fm - Variables</a> </p>
+
+<h4>4. You don’t need to declare what &quot;type&quot; a variable is</h4>
+
+<p>Ruby Variables are weak-typed or dynamically-typed; meaning that you don&#39;t need to worry what types of data can be stored in them. Ruby Bacon gives a quick overview of what this all means: <a href="http://www.rubybacon.com/ruby-basics-variables/">Ruby Bacon - Variables</a></p>
+
+<h4>5. But you do need to define where in a program it is accessible from</h4>
+
+<p>The most complicated aspect of Variables you need to understand is their “scope”. Technotopia gives a really clear and concise explanation of variable scope in the following article:  <a href="http://www.techotopia.com/index.php/Ruby_Variable_Scope">Technotopia - Ruby Variable Scope</a> </p>
+
+<p>Ruby Monk goes one step further give some interactive examples: <a href="http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/38-declaring-data/lessons/129-variables">Ruby Monk - Variables</a> </p>
+
+<h5>Other resources</h5>
+
+<p>If you still don’t quite understand some aspects, <a href="http://zetcode.com/lang/rubytutorial/variables/">Zetcode</a> and <a href="http://ruby.bastardsbook.com/chapters/variables/">The Bastard’s Book of Ruby</a> both provide quite comprehensive introductions to Variables.</p>
+
+        </section>
+
+        
+
+        <footer class="post-footer">
+          
+          
+          
+            <section class="book">
+  <article>
+    <h4>Learning Ruby Series</h4>
+    <p>For more tips on learning Ruby from Make It With Code, enter your email below.</p>
+    <div id="mc_embed_signup">
+<form action="http://makeitwithcode.us3.list-manage2.com/subscribe/post?u=adadd8f3e2b1e2323a4b60989&amp;id=aee5107cf6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate="">
+  
+  <input placeholder="Email Address" type="email" value="" name="EMAIL" class="required email wide_email" id="mce-EMAIL" style="height:28px;padding: 0 10px 0 10px;">
+
+<input type="submit" value="Learn Better Ruby" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color: #aaa;border: 0 none;border-radius: 4px;color: #FFFFFF;display: inline-block;font-size: 15px;font-weight: bold;height: 32px;line-height: 32px;margin: 0 5px 10px 10px;padding: 0 10px 0 10px;text-align: center;text-decoration: none;vertical-align: top;white-space: nowrap;width: auto;">
+</form>
+</div>
+  
+  </article>
+</section>
+
+          
+
+            
+        	
+        </footer>
+
+    </article>
+
+</main>
+
+
+    <footer class="site-footer">
+        <a class="subscribe icon-feed" href="/blogrss.xml"><span class="tooltip">Subscribe!</span></a>
+        <div class="inner">
+          <section class="copyright">All content copyright <a href="http://www.makeitwithcode.com">Make It With Code</a> &copy;  &bull; All rights reserved. Twitter: <a href="http://www.twitter.com/makeitwithcode" target="_blank">@makeitwithcode</a></section>
+        </div>
+    </footer>
+
+    
+    <script type="text/javascript" src="/assets/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/assets/js/index.js"></script>
+
+    <!-- Google Analytics Tracking code -->
+    <script type="text/javascript">
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-47888574-2', 'makeitwithcode.com');
+                  ga('send', 'pageview');
+    </script>   
+</body>
+</html>

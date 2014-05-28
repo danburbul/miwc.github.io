@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Make It With Code Blog</title>
+    <link>http://www.makeitwithcode.com/blog/</link>
+    <description>Teaching people to code by making things, not learning Syntax</description>
+    <pubDate>Wed, 26 Mar 2014 11:23:00 -0000</pubDate>
+    <item>
+      <title>5 things you should understand about Ruby Variables</title>
+      <link>http://www.makeitwithcode.com/blog//2014/03/five-things-you-should-understand-about-Ruby-Variables</link>
+      <description>&lt;p&gt;Despite being one of the most fundamental concepts in programming, it’s pretty hard to find a decent explanation of Ruby Variables for beginners. We’ve hand-picked a number of resources we believe cover the five thing you’ll need to understand about them.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 26 Mar 2014 11:23:00 -0000</pubDate>
+      <dc:date>2014-03-26T11:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>How They Learned to Code - Stuart Eccles</title>
+      <link>http://www.makeitwithcode.com/blog//2014/03/stu-eccles-how-they-learned-to-code</link>
+      <description>&lt;p&gt;In this series of interviews, we&amp;#39;re talking to some of the industry&amp;#39;s top developers about how they learned to code and their advice for anyone who&amp;#39;s just getting started. Stuart Eccles is the Co-Founder and CTO of Made By Many, a London and New York based digital agency which specialises in applying Lean Methodologies and working practices to projects for big companies.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 13 Mar 2014 11:23:00 -0000</pubDate>
+      <dc:date>2014-03-13T11:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>Break it Down</title>
+      <link>http://www.makeitwithcode.com/blog//2014/02/break-it-down</link>
+      <description>&lt;p&gt;When you&amp;#39;re thinking about a big idea, one of the most difficult things to work out is how to get started. It doesn&amp;#39;t matter whether it&amp;#39;s a coding problem, or writing a story, or planning a holiday; it&amp;#39;s impossible to fathom the full extent of a project without understanding how it can be broken down into smaller, more manageable elements. And then once you&amp;#39;ve figured out how to break it down, you need to find a way to piece it together. &lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 Feb 2014 11:23:00 -0000</pubDate>
+      <dc:date>2014-02-20T11:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>Get Behind Year Of Code</title>
+      <link>http://www.makeitwithcode.com/blog//2014/02/get-behind-year-of-code</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://yearofcode.org/&quot; target=&quot;_blank&quot;&gt;Year of Code&lt;/a&gt; is an independent, non-profit campaign that&amp;#39;s encouraging people of the UK to &amp;quot;get coding for the first time&amp;quot; in 2014. Unfortunately, the thing that&amp;#39;s set people talking about the initiative is the barrage of cynical responses to a recent Newsnight segment, which we think misses the point. Here&amp;#39;s why we&amp;#39;re completely behind Year of Code.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 11 Feb 2014 19:36:00 -0000</pubDate>
+      <dc:date>2014-02-11T19:36:00Z</dc:date>
+    </item>
+    <item>
+      <title>About Make It With Code</title>
+      <link>http://www.makeitwithcode.com/blog//2014/02/about-us</link>
+      <description>&lt;p&gt;The thing is, learning to code is generally dull. Making things with code is awesome but learning syntax on its own is about as much fun as memorising French verb conjugations - and we think, an equally terrible way of getting started.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 02 Feb 2014 19:36:00 -0000</pubDate>
+      <dc:date>2014-02-02T19:36:00Z</dc:date>
+    </item>
+    <dc:date>2014-03-26T11:23:00Z</dc:date>
+  </channel>
+</rss>
