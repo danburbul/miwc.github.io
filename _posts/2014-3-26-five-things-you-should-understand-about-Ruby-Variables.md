@@ -43,7 +43,7 @@ Chris Pine, author of the excellent book [Learn To Program](http://pragprog.com/
 
 #### 4.	You don’t need to declare what "type" a variable is
 
-Ruby Variables are weak-typed or dynamically-typed; meaning that you don't need to worry what types of data can be stored in them. Ruby Bacon gives a quick overview of what this all means: [Ruby Bacon - Variables](http://www.rubybacon.com/ruby-basics-variables/)
+Ruby Variables are weak-typed or dynamically-typed; meaning that you don't need to worry what types of data can be stored in them. Refactoring Bacon gives a quick overview of what this all means: [Refactoring Bacon - Variables](http://www.refactoringbacon.com/ruby-basics-variables/)
 
 
 #### 5.	But you do need to define where in a program it is accessible from
